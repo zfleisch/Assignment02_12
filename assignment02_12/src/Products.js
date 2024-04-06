@@ -29,7 +29,7 @@ export const Products = [
     {
       "id": 4,
       "title": "Sleek Modern Laptop with Ambient Lighting",
-      "price": 150.99,
+      "price": 1150.99,
       "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
       "category": "Electronics",
       "image": "https://i.imgur.com/OKn1KFI.jpeg",
@@ -38,7 +38,7 @@ export const Products = [
     {
       "id": 5,
       "title": "Sleek Modern Laptop for Professionals",
-      "price": 295,
+      "price": 1395,
       "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
       "category": "Electronics",
       "image": "https://i.imgur.com/ItHcq7o.jpeg",
